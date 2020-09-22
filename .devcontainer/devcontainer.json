@@ -1,6 +1,8 @@
 {
   
 	"name": "Ubuntu",
+	
+	"image": "mcr.microsoft.com/vscode/devcontainers/base:bionic",
   
   "forwardPorts": [5100, 5200],
   
