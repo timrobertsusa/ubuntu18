@@ -5,7 +5,7 @@
   "forwardPorts": [5100, 5200],
   
   ## "image": "mcr.microsoft.com/vscode/devcontainers/dotnetcore:3.1",
-  "image": "mcr.microsoft.com/vscode/devcontainers/base:bionic",
+  ## "image": "mcr.microsoft.com/vscode/devcontainers/base:bionic",
 
     "extensions": [
       "docsmsft.docs-authoring-pack",
