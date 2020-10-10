@@ -1,8 +1,8 @@
 {
   
-	"name": "debain default",
+	"name": "Ubuntu",
 	
-	
+	"image": "mcr.microsoft.com/dotnet/core/sdk:3.1-bionic",
   
   	"forwardPorts": [5100, 5200],  
   
